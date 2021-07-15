@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Iphone } from './iphone';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,5 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'md5-b3-th3';
+
 }
